@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Kartikpatel231
-- 👀 I’m interested in java as a backend developer
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on as a web development
+- 👀 I’m interested in java ,data-science,cloud-computing
+- 🌱 I’m currently learning spring boot ,angular,devops
+- 💞️ I’m looking to collaborate with fullstack developer
 - 📫 How to reach me kartikpatel1950@gmail.com
+- www.brainspace.tech
+- @java_core_tricks
 
 <!---
 Kartikpatel231/Kartikpatel231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
