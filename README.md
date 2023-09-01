@@ -6,7 +6,21 @@
 - www.brainspace.tech
 - @java_core_tricks
 
-<!---
-Kartikpatel231/Kartikpatel231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# kartik patel's Developer Portfolio
+
+Welcome to my GitHub repository! I am kartik patel, a passionate full-stack developer with extensive 
+experience in building web applications using Spring Boot, Angular, and AWS. With a solid background in Java development, 
+I have successfully completed numerous projects during my career, including a live website at [www.brainspace.tech](https://www.brainspace.tech).
+
+
+## Skills
+
+- **Frontend**: Angular, HTML, CSS, JavaScript, TypeScript
+- **Backend**: Spring Boot, Java, RESTful APIs
+- **Cloud**: AWS (Amazon Web Services)
+- **Database**: MySQL, PostgreSQL, MongoDB
+- **Version Control**: Git
+- **DevOps**: Docker, Jenkins
+- **Project Management**: Agile, Scrum
+
+Thank you for visiting my GitHub repository. I look forward to collaborating with you on exciting projects and initiatives.
